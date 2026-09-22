@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Yiğit Emir Program\HesapMakinesiUygulama6\obj\Debug\HesapMakinesiUygulama6.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Yiğit Emir Program\HesapMakinesiUygulama6\obj\Debug\HesapMakinesiUygulama6.Form1.resources
+C:\Users\USER\Desktop\Yiğit Emir Program\HesapMakinesiUygulama6\obj\Debug\HesapMakinesiUygulama6.Properties.Resources.resources
+C:\Users\USER\Desktop\Yiğit Emir Program\HesapMakinesiUygulama6\obj\Debug\HesapMakinesiUygulama6.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Yiğit Emir Program\HesapMakinesiUygulama6\obj\Debug\HesapMakinesiUygulama6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Yiğit Emir Program\HesapMakinesiUygulama6\bin\Debug\HesapMakinesiUygulama6.exe.config
+C:\Users\USER\Desktop\Yiğit Emir Program\HesapMakinesiUygulama6\bin\Debug\HesapMakinesiUygulama6.exe
+C:\Users\USER\Desktop\Yiğit Emir Program\HesapMakinesiUygulama6\bin\Debug\HesapMakinesiUygulama6.pdb
+C:\Users\USER\Desktop\Yiğit Emir Program\HesapMakinesiUygulama6\obj\Debug\HesapMakinesiUygulama6.exe
+C:\Users\USER\Desktop\Yiğit Emir Program\HesapMakinesiUygulama6\obj\Debug\HesapMakinesiUygulama6.pdb
