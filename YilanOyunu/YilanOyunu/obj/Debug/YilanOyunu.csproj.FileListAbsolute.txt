@@ -1,0 +1,10 @@
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YilanOyunu\YilanOyunu\bin\Debug\YilanOyunu.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YilanOyunu\YilanOyunu\bin\Debug\YilanOyunu.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YilanOyunu\YilanOyunu\bin\Debug\YilanOyunu.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.Form1.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YilanOyunu\YilanOyunu\obj\Debug\YilanOyunu.pdb
