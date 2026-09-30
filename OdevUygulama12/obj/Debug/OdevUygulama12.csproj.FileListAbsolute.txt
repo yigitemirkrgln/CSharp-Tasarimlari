@@ -1,0 +1,10 @@
+C:\Users\Bilisim\Desktop\30.09.2026 Projeler\OdevUygulama12\bin\Debug\OdevUygulama12.exe.config
+C:\Users\Bilisim\Desktop\30.09.2026 Projeler\OdevUygulama12\bin\Debug\OdevUygulama12.exe
+C:\Users\Bilisim\Desktop\30.09.2026 Projeler\OdevUygulama12\bin\Debug\OdevUygulama12.pdb
+C:\Users\Bilisim\Desktop\30.09.2026 Projeler\OdevUygulama12\obj\Debug\OdevUygulama12.csproj.AssemblyReference.cache
+C:\Users\Bilisim\Desktop\30.09.2026 Projeler\OdevUygulama12\obj\Debug\OdevUygulama12.Form1.resources
+C:\Users\Bilisim\Desktop\30.09.2026 Projeler\OdevUygulama12\obj\Debug\OdevUygulama12.Properties.Resources.resources
+C:\Users\Bilisim\Desktop\30.09.2026 Projeler\OdevUygulama12\obj\Debug\OdevUygulama12.csproj.GenerateResource.cache
+C:\Users\Bilisim\Desktop\30.09.2026 Projeler\OdevUygulama12\obj\Debug\OdevUygulama12.csproj.CoreCompileInputs.cache
+C:\Users\Bilisim\Desktop\30.09.2026 Projeler\OdevUygulama12\obj\Debug\OdevUygulama12.exe
+C:\Users\Bilisim\Desktop\30.09.2026 Projeler\OdevUygulama12\obj\Debug\OdevUygulama12.pdb
