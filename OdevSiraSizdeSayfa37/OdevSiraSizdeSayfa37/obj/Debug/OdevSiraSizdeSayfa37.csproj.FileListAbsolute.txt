@@ -1,0 +1,10 @@
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevSiraSizdeSayfa37\OdevSiraSizdeSayfa37\bin\Debug\OdevSiraSizdeSayfa37.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevSiraSizdeSayfa37\OdevSiraSizdeSayfa37\bin\Debug\OdevSiraSizdeSayfa37.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevSiraSizdeSayfa37\OdevSiraSizdeSayfa37\bin\Debug\OdevSiraSizdeSayfa37.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevSiraSizdeSayfa37\OdevSiraSizdeSayfa37\obj\Debug\OdevSiraSizdeSayfa37.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevSiraSizdeSayfa37\OdevSiraSizdeSayfa37\obj\Debug\OdevSiraSizdeSayfa37.Form1.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevSiraSizdeSayfa37\OdevSiraSizdeSayfa37\obj\Debug\OdevSiraSizdeSayfa37.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevSiraSizdeSayfa37\OdevSiraSizdeSayfa37\obj\Debug\OdevSiraSizdeSayfa37.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevSiraSizdeSayfa37\OdevSiraSizdeSayfa37\obj\Debug\OdevSiraSizdeSayfa37.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevSiraSizdeSayfa37\OdevSiraSizdeSayfa37\obj\Debug\OdevSiraSizdeSayfa37.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevSiraSizdeSayfa37\OdevSiraSizdeSayfa37\obj\Debug\OdevSiraSizdeSayfa37.pdb

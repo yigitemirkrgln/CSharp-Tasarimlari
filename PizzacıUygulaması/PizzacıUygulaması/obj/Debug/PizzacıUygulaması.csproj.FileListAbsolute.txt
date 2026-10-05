@@ -1,0 +1,10 @@
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\PizzacıUygulaması\PizzacıUygulaması\bin\Debug\PizzacıUygulaması.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\PizzacıUygulaması\PizzacıUygulaması\bin\Debug\PizzacıUygulaması.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\PizzacıUygulaması\PizzacıUygulaması\bin\Debug\PizzacıUygulaması.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\PizzacıUygulaması\PizzacıUygulaması\obj\Debug\PizzacıUygulaması.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\PizzacıUygulaması\PizzacıUygulaması\obj\Debug\PizzacıUygulaması.Form1.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\PizzacıUygulaması\PizzacıUygulaması\obj\Debug\PizzacıUygulaması.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\PizzacıUygulaması\PizzacıUygulaması\obj\Debug\PizzacıUygulaması.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\PizzacıUygulaması\PizzacıUygulaması\obj\Debug\PizzacıUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\PizzacıUygulaması\PizzacıUygulaması\obj\Debug\PizzacıUygulaması.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\PizzacıUygulaması\PizzacıUygulaması\obj\Debug\PizzacıUygulaması.pdb
