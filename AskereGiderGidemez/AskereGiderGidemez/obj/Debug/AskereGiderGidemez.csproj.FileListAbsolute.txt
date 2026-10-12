@@ -1,0 +1,10 @@
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AskereGiderGidemez\AskereGiderGidemez\bin\Debug\AskereGiderGidemez.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AskereGiderGidemez\AskereGiderGidemez\bin\Debug\AskereGiderGidemez.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AskereGiderGidemez\AskereGiderGidemez\bin\Debug\AskereGiderGidemez.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AskereGiderGidemez\AskereGiderGidemez\obj\Debug\AskereGiderGidemez.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AskereGiderGidemez\AskereGiderGidemez\obj\Debug\AskereGiderGidemez.Form1.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AskereGiderGidemez\AskereGiderGidemez\obj\Debug\AskereGiderGidemez.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AskereGiderGidemez\AskereGiderGidemez\obj\Debug\AskereGiderGidemez.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AskereGiderGidemez\AskereGiderGidemez\obj\Debug\AskereGiderGidemez.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AskereGiderGidemez\AskereGiderGidemez\obj\Debug\AskereGiderGidemez.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AskereGiderGidemez\AskereGiderGidemez\obj\Debug\AskereGiderGidemez.pdb

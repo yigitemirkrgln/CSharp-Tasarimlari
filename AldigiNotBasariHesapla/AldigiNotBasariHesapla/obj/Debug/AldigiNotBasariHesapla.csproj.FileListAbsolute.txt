@@ -1,0 +1,10 @@
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AldigiNotBasariHesapla\AldigiNotBasariHesapla\bin\Debug\AldigiNotBasariHesapla.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AldigiNotBasariHesapla\AldigiNotBasariHesapla\bin\Debug\AldigiNotBasariHesapla.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AldigiNotBasariHesapla\AldigiNotBasariHesapla\bin\Debug\AldigiNotBasariHesapla.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AldigiNotBasariHesapla\AldigiNotBasariHesapla\obj\Debug\AldigiNotBasariHesapla.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AldigiNotBasariHesapla\AldigiNotBasariHesapla\obj\Debug\AldigiNotBasariHesapla.Form1.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AldigiNotBasariHesapla\AldigiNotBasariHesapla\obj\Debug\AldigiNotBasariHesapla.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AldigiNotBasariHesapla\AldigiNotBasariHesapla\obj\Debug\AldigiNotBasariHesapla.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AldigiNotBasariHesapla\AldigiNotBasariHesapla\obj\Debug\AldigiNotBasariHesapla.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AldigiNotBasariHesapla\AldigiNotBasariHesapla\obj\Debug\AldigiNotBasariHesapla.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\AldigiNotBasariHesapla\AldigiNotBasariHesapla\obj\Debug\AldigiNotBasariHesapla.pdb

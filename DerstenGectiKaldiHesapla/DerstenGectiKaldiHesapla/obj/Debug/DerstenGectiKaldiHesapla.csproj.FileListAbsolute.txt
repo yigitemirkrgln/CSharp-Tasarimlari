@@ -1,0 +1,10 @@
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\DerstenGectiKaldiHesapla\DerstenGectiKaldiHesapla\bin\Debug\DerstenGectiKaldiHesapla.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\DerstenGectiKaldiHesapla\DerstenGectiKaldiHesapla\bin\Debug\DerstenGectiKaldiHesapla.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\DerstenGectiKaldiHesapla\DerstenGectiKaldiHesapla\bin\Debug\DerstenGectiKaldiHesapla.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\DerstenGectiKaldiHesapla\DerstenGectiKaldiHesapla\obj\Debug\DerstenGectiKaldiHesapla.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\DerstenGectiKaldiHesapla\DerstenGectiKaldiHesapla\obj\Debug\DerstenGectiKaldiHesapla.Form1.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\DerstenGectiKaldiHesapla\DerstenGectiKaldiHesapla\obj\Debug\DerstenGectiKaldiHesapla.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\DerstenGectiKaldiHesapla\DerstenGectiKaldiHesapla\obj\Debug\DerstenGectiKaldiHesapla.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\DerstenGectiKaldiHesapla\DerstenGectiKaldiHesapla\obj\Debug\DerstenGectiKaldiHesapla.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\DerstenGectiKaldiHesapla\DerstenGectiKaldiHesapla\obj\Debug\DerstenGectiKaldiHesapla.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\DerstenGectiKaldiHesapla\DerstenGectiKaldiHesapla\obj\Debug\DerstenGectiKaldiHesapla.pdb
