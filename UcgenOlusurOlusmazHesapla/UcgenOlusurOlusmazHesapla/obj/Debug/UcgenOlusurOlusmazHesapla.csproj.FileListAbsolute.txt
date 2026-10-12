@@ -1,0 +1,10 @@
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UcgenOlusurOlusmazHesapla\UcgenOlusurOlusmazHesapla\obj\Debug\UcgenOlusurOlusmazHesapla.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UcgenOlusurOlusmazHesapla\UcgenOlusurOlusmazHesapla\obj\Debug\UcgenOlusurOlusmazHesapla.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UcgenOlusurOlusmazHesapla\UcgenOlusurOlusmazHesapla\obj\Debug\UcgenOlusurOlusmazHesapla.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UcgenOlusurOlusmazHesapla\UcgenOlusurOlusmazHesapla\obj\Debug\UcgenOlusurOlusmazHesapla.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UcgenOlusurOlusmazHesapla\UcgenOlusurOlusmazHesapla\bin\Debug\UcgenOlusurOlusmazHesapla.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UcgenOlusurOlusmazHesapla\UcgenOlusurOlusmazHesapla\bin\Debug\UcgenOlusurOlusmazHesapla.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UcgenOlusurOlusmazHesapla\UcgenOlusurOlusmazHesapla\bin\Debug\UcgenOlusurOlusmazHesapla.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UcgenOlusurOlusmazHesapla\UcgenOlusurOlusmazHesapla\obj\Debug\UcgenOlusurOlusmazHesapla.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UcgenOlusurOlusmazHesapla\UcgenOlusurOlusmazHesapla\obj\Debug\UcgenOlusurOlusmazHesapla.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UcgenOlusurOlusmazHesapla\UcgenOlusurOlusmazHesapla\obj\Debug\UcgenOlusurOlusmazHesapla.Form1.resources

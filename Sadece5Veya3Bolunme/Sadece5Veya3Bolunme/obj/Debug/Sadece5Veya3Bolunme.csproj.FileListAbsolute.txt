@@ -1,0 +1,10 @@
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\Sadece5Veya3Bolunme\Sadece5Veya3Bolunme\bin\Debug\Sadece5Veya3Bolunme.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\Sadece5Veya3Bolunme\Sadece5Veya3Bolunme\bin\Debug\Sadece5Veya3Bolunme.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\Sadece5Veya3Bolunme\Sadece5Veya3Bolunme\bin\Debug\Sadece5Veya3Bolunme.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\Sadece5Veya3Bolunme\Sadece5Veya3Bolunme\obj\Debug\Sadece5Veya3Bolunme.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\Sadece5Veya3Bolunme\Sadece5Veya3Bolunme\obj\Debug\Sadece5Veya3Bolunme.Form1.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\Sadece5Veya3Bolunme\Sadece5Veya3Bolunme\obj\Debug\Sadece5Veya3Bolunme.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\Sadece5Veya3Bolunme\Sadece5Veya3Bolunme\obj\Debug\Sadece5Veya3Bolunme.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\Sadece5Veya3Bolunme\Sadece5Veya3Bolunme\obj\Debug\Sadece5Veya3Bolunme.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\Sadece5Veya3Bolunme\Sadece5Veya3Bolunme\obj\Debug\Sadece5Veya3Bolunme.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\Sadece5Veya3Bolunme\Sadece5Veya3Bolunme\obj\Debug\Sadece5Veya3Bolunme.pdb
