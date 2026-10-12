@@ -1,0 +1,10 @@
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevUygulama16\OdevUygulama16\bin\Debug\OdevUygulama16.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevUygulama16\OdevUygulama16\bin\Debug\OdevUygulama16.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevUygulama16\OdevUygulama16\bin\Debug\OdevUygulama16.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevUygulama16\OdevUygulama16\obj\Debug\OdevUygulama16.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevUygulama16\OdevUygulama16\obj\Debug\OdevUygulama16.Form1.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevUygulama16\OdevUygulama16\obj\Debug\OdevUygulama16.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevUygulama16\OdevUygulama16\obj\Debug\OdevUygulama16.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevUygulama16\OdevUygulama16\obj\Debug\OdevUygulama16.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevUygulama16\OdevUygulama16\obj\Debug\OdevUygulama16.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\OdevUygulama16\OdevUygulama16\obj\Debug\OdevUygulama16.pdb
