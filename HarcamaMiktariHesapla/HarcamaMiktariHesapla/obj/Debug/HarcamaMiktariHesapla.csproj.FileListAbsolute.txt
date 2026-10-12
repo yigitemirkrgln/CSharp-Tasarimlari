@@ -1,0 +1,10 @@
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\HarcamaMiktariHesapla\HarcamaMiktariHesapla\bin\Debug\HarcamaMiktariHesapla.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\HarcamaMiktariHesapla\HarcamaMiktariHesapla\bin\Debug\HarcamaMiktariHesapla.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\HarcamaMiktariHesapla\HarcamaMiktariHesapla\bin\Debug\HarcamaMiktariHesapla.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\HarcamaMiktariHesapla\HarcamaMiktariHesapla\obj\Debug\HarcamaMiktariHesapla.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\HarcamaMiktariHesapla\HarcamaMiktariHesapla\obj\Debug\HarcamaMiktariHesapla.Form1.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\HarcamaMiktariHesapla\HarcamaMiktariHesapla\obj\Debug\HarcamaMiktariHesapla.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\HarcamaMiktariHesapla\HarcamaMiktariHesapla\obj\Debug\HarcamaMiktariHesapla.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\HarcamaMiktariHesapla\HarcamaMiktariHesapla\obj\Debug\HarcamaMiktariHesapla.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\HarcamaMiktariHesapla\HarcamaMiktariHesapla\obj\Debug\HarcamaMiktariHesapla.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\HarcamaMiktariHesapla\HarcamaMiktariHesapla\obj\Debug\HarcamaMiktariHesapla.pdb

@@ -1,0 +1,10 @@
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\MaasVeUretimeGorePrimHesapla\MaasVeUretimeGorePrimHesapla\bin\Debug\MaasVeUretimeGorePrimHesapla.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\MaasVeUretimeGorePrimHesapla\MaasVeUretimeGorePrimHesapla\bin\Debug\MaasVeUretimeGorePrimHesapla.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\MaasVeUretimeGorePrimHesapla\MaasVeUretimeGorePrimHesapla\bin\Debug\MaasVeUretimeGorePrimHesapla.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\MaasVeUretimeGorePrimHesapla\MaasVeUretimeGorePrimHesapla\obj\Debug\MaasVeUretimeGorePrimHesapla.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\MaasVeUretimeGorePrimHesapla\MaasVeUretimeGorePrimHesapla\obj\Debug\MaasVeUretimeGorePrimHesapla.Form1.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\MaasVeUretimeGorePrimHesapla\MaasVeUretimeGorePrimHesapla\obj\Debug\MaasVeUretimeGorePrimHesapla.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\MaasVeUretimeGorePrimHesapla\MaasVeUretimeGorePrimHesapla\obj\Debug\MaasVeUretimeGorePrimHesapla.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\MaasVeUretimeGorePrimHesapla\MaasVeUretimeGorePrimHesapla\obj\Debug\MaasVeUretimeGorePrimHesapla.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\MaasVeUretimeGorePrimHesapla\MaasVeUretimeGorePrimHesapla\obj\Debug\MaasVeUretimeGorePrimHesapla.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\MaasVeUretimeGorePrimHesapla\MaasVeUretimeGorePrimHesapla\obj\Debug\MaasVeUretimeGorePrimHesapla.pdb

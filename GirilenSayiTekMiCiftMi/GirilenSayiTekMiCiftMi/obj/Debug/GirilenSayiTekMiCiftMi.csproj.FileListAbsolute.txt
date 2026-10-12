@@ -1,0 +1,10 @@
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\GirilenSayiTekMiCiftMi\GirilenSayiTekMiCiftMi\bin\Debug\GirilenSayiTekMiCiftMi.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\GirilenSayiTekMiCiftMi\GirilenSayiTekMiCiftMi\bin\Debug\GirilenSayiTekMiCiftMi.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\GirilenSayiTekMiCiftMi\GirilenSayiTekMiCiftMi\bin\Debug\GirilenSayiTekMiCiftMi.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\GirilenSayiTekMiCiftMi\GirilenSayiTekMiCiftMi\obj\Debug\GirilenSayiTekMiCiftMi.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\GirilenSayiTekMiCiftMi\GirilenSayiTekMiCiftMi\obj\Debug\GirilenSayiTekMiCiftMi.Form1.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\GirilenSayiTekMiCiftMi\GirilenSayiTekMiCiftMi\obj\Debug\GirilenSayiTekMiCiftMi.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\GirilenSayiTekMiCiftMi\GirilenSayiTekMiCiftMi\obj\Debug\GirilenSayiTekMiCiftMi.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\GirilenSayiTekMiCiftMi\GirilenSayiTekMiCiftMi\obj\Debug\GirilenSayiTekMiCiftMi.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\GirilenSayiTekMiCiftMi\GirilenSayiTekMiCiftMi\obj\Debug\GirilenSayiTekMiCiftMi.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\GirilenSayiTekMiCiftMi\GirilenSayiTekMiCiftMi\obj\Debug\GirilenSayiTekMiCiftMi.pdb
