@@ -1,0 +1,10 @@
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YasanilabilirSicaklikHesaplama\YasanilabilirSicaklikHesaplama\bin\Debug\YasanilabilirSicaklikHesaplama.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YasanilabilirSicaklikHesaplama\YasanilabilirSicaklikHesaplama\bin\Debug\YasanilabilirSicaklikHesaplama.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YasanilabilirSicaklikHesaplama\YasanilabilirSicaklikHesaplama\bin\Debug\YasanilabilirSicaklikHesaplama.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YasanilabilirSicaklikHesaplama\YasanilabilirSicaklikHesaplama\obj\Debug\YasanilabilirSicaklikHesaplama.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YasanilabilirSicaklikHesaplama\YasanilabilirSicaklikHesaplama\obj\Debug\YasanilabilirSicaklikHesaplama.Form1.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YasanilabilirSicaklikHesaplama\YasanilabilirSicaklikHesaplama\obj\Debug\YasanilabilirSicaklikHesaplama.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YasanilabilirSicaklikHesaplama\YasanilabilirSicaklikHesaplama\obj\Debug\YasanilabilirSicaklikHesaplama.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YasanilabilirSicaklikHesaplama\YasanilabilirSicaklikHesaplama\obj\Debug\YasanilabilirSicaklikHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YasanilabilirSicaklikHesaplama\YasanilabilirSicaklikHesaplama\obj\Debug\YasanilabilirSicaklikHesaplama.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\YasanilabilirSicaklikHesaplama\YasanilabilirSicaklikHesaplama\obj\Debug\YasanilabilirSicaklikHesaplama.pdb

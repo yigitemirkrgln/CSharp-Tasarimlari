@@ -1,0 +1,10 @@
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UrunIndirimHesaplama\UrunIndirimHesaplama\bin\Debug\UrunIndirimHesaplama.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UrunIndirimHesaplama\UrunIndirimHesaplama\bin\Debug\UrunIndirimHesaplama.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UrunIndirimHesaplama\UrunIndirimHesaplama\bin\Debug\UrunIndirimHesaplama.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UrunIndirimHesaplama\UrunIndirimHesaplama\obj\Debug\UrunIndirimHesaplama.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UrunIndirimHesaplama\UrunIndirimHesaplama\obj\Debug\UrunIndirimHesaplama.Form1.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UrunIndirimHesaplama\UrunIndirimHesaplama\obj\Debug\UrunIndirimHesaplama.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UrunIndirimHesaplama\UrunIndirimHesaplama\obj\Debug\UrunIndirimHesaplama.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UrunIndirimHesaplama\UrunIndirimHesaplama\obj\Debug\UrunIndirimHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UrunIndirimHesaplama\UrunIndirimHesaplama\obj\Debug\UrunIndirimHesaplama.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\UrunIndirimHesaplama\UrunIndirimHesaplama\obj\Debug\UrunIndirimHesaplama.pdb
