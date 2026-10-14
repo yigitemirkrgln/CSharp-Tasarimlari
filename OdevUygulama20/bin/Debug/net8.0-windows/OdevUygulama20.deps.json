@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OdevUygulama20/1.0.0": {
+        "runtime": {
+          "OdevUygulama20.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OdevUygulama20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

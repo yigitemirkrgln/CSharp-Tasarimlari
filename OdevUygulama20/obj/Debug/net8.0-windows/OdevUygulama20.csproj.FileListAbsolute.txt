@@ -1,0 +1,16 @@
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\bin\Debug\net8.0-windows\OdevUygulama20.exe
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\bin\Debug\net8.0-windows\OdevUygulama20.deps.json
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\bin\Debug\net8.0-windows\OdevUygulama20.runtimeconfig.json
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\bin\Debug\net8.0-windows\OdevUygulama20.dll
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\bin\Debug\net8.0-windows\OdevUygulama20.pdb
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\obj\Debug\net8.0-windows\OdevUygulama20.Form1.resources
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\obj\Debug\net8.0-windows\OdevUygulama20.csproj.GenerateResource.cache
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\obj\Debug\net8.0-windows\OdevUygulama20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\obj\Debug\net8.0-windows\OdevUygulama20.AssemblyInfoInputs.cache
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\obj\Debug\net8.0-windows\OdevUygulama20.AssemblyInfo.cs
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\obj\Debug\net8.0-windows\OdevUygulama20.csproj.CoreCompileInputs.cache
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\obj\Debug\net8.0-windows\OdevUygulama20.dll
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\obj\Debug\net8.0-windows\refint\OdevUygulama20.dll
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\obj\Debug\net8.0-windows\OdevUygulama20.pdb
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\obj\Debug\net8.0-windows\OdevUygulama20.genruntimeconfig.cache
+C:\Users\Bilisim\Desktop\C# Projeler\OdevUygulama20\obj\Debug\net8.0-windows\ref\OdevUygulama20.dll
