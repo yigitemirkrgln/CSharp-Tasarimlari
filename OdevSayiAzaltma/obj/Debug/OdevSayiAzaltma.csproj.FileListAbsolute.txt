@@ -1,0 +1,10 @@
+C:\Users\Bilisim\Desktop\C# Projeler\OdevSayiAzaltma\bin\Debug\OdevSayiAzaltma.exe.config
+C:\Users\Bilisim\Desktop\C# Projeler\OdevSayiAzaltma\bin\Debug\OdevSayiAzaltma.exe
+C:\Users\Bilisim\Desktop\C# Projeler\OdevSayiAzaltma\bin\Debug\OdevSayiAzaltma.pdb
+C:\Users\Bilisim\Desktop\C# Projeler\OdevSayiAzaltma\obj\Debug\OdevSayiAzaltma.csproj.AssemblyReference.cache
+C:\Users\Bilisim\Desktop\C# Projeler\OdevSayiAzaltma\obj\Debug\OdevSayiAzaltma.Form1.resources
+C:\Users\Bilisim\Desktop\C# Projeler\OdevSayiAzaltma\obj\Debug\OdevSayiAzaltma.Properties.Resources.resources
+C:\Users\Bilisim\Desktop\C# Projeler\OdevSayiAzaltma\obj\Debug\OdevSayiAzaltma.csproj.GenerateResource.cache
+C:\Users\Bilisim\Desktop\C# Projeler\OdevSayiAzaltma\obj\Debug\OdevSayiAzaltma.csproj.CoreCompileInputs.cache
+C:\Users\Bilisim\Desktop\C# Projeler\OdevSayiAzaltma\obj\Debug\OdevSayiAzaltma.exe
+C:\Users\Bilisim\Desktop\C# Projeler\OdevSayiAzaltma\obj\Debug\OdevSayiAzaltma.pdb

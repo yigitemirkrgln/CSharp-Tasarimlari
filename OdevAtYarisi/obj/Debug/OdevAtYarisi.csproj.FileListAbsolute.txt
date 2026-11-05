@@ -1,0 +1,10 @@
+C:\Users\Bilisim\Desktop\C# Projeler\OdevAtYarisi\bin\Debug\OdevAtYarisi.exe.config
+C:\Users\Bilisim\Desktop\C# Projeler\OdevAtYarisi\bin\Debug\OdevAtYarisi.exe
+C:\Users\Bilisim\Desktop\C# Projeler\OdevAtYarisi\bin\Debug\OdevAtYarisi.pdb
+C:\Users\Bilisim\Desktop\C# Projeler\OdevAtYarisi\obj\Debug\OdevAtYarisi.csproj.AssemblyReference.cache
+C:\Users\Bilisim\Desktop\C# Projeler\OdevAtYarisi\obj\Debug\OdevAtYarisi.Form1.resources
+C:\Users\Bilisim\Desktop\C# Projeler\OdevAtYarisi\obj\Debug\OdevAtYarisi.Properties.Resources.resources
+C:\Users\Bilisim\Desktop\C# Projeler\OdevAtYarisi\obj\Debug\OdevAtYarisi.csproj.GenerateResource.cache
+C:\Users\Bilisim\Desktop\C# Projeler\OdevAtYarisi\obj\Debug\OdevAtYarisi.csproj.CoreCompileInputs.cache
+C:\Users\Bilisim\Desktop\C# Projeler\OdevAtYarisi\obj\Debug\OdevAtYarisi.exe
+C:\Users\Bilisim\Desktop\C# Projeler\OdevAtYarisi\obj\Debug\OdevAtYarisi.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bilisim\Desktop\C# Projeler\OdevListboxSayac\bin\Debug\OdevListboxSayac.exe.config
+C:\Users\Bilisim\Desktop\C# Projeler\OdevListboxSayac\bin\Debug\OdevListboxSayac.exe
+C:\Users\Bilisim\Desktop\C# Projeler\OdevListboxSayac\bin\Debug\OdevListboxSayac.pdb
+C:\Users\Bilisim\Desktop\C# Projeler\OdevListboxSayac\obj\Debug\OdevListboxSayac.csproj.AssemblyReference.cache
+C:\Users\Bilisim\Desktop\C# Projeler\OdevListboxSayac\obj\Debug\OdevListboxSayac.Form1.resources
+C:\Users\Bilisim\Desktop\C# Projeler\OdevListboxSayac\obj\Debug\OdevListboxSayac.Properties.Resources.resources
+C:\Users\Bilisim\Desktop\C# Projeler\OdevListboxSayac\obj\Debug\OdevListboxSayac.csproj.GenerateResource.cache
+C:\Users\Bilisim\Desktop\C# Projeler\OdevListboxSayac\obj\Debug\OdevListboxSayac.csproj.CoreCompileInputs.cache
+C:\Users\Bilisim\Desktop\C# Projeler\OdevListboxSayac\obj\Debug\OdevListboxSayac.exe
+C:\Users\Bilisim\Desktop\C# Projeler\OdevListboxSayac\obj\Debug\OdevListboxSayac.pdb
