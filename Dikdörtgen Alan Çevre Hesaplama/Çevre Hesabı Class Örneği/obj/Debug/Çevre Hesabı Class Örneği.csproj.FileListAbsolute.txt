@@ -1,0 +1,10 @@
+C:\Users\Bilisim\Desktop\C# Class Örnekleri\Çevre Hesabı Class Örneği\bin\Debug\Çevre Hesabı Class Örneği.exe.config
+C:\Users\Bilisim\Desktop\C# Class Örnekleri\Çevre Hesabı Class Örneği\bin\Debug\Çevre Hesabı Class Örneği.exe
+C:\Users\Bilisim\Desktop\C# Class Örnekleri\Çevre Hesabı Class Örneği\bin\Debug\Çevre Hesabı Class Örneği.pdb
+C:\Users\Bilisim\Desktop\C# Class Örnekleri\Çevre Hesabı Class Örneği\obj\Debug\Çevre Hesabı Class Örneği.csproj.AssemblyReference.cache
+C:\Users\Bilisim\Desktop\C# Class Örnekleri\Çevre Hesabı Class Örneği\obj\Debug\Çevre_Hesabı_Class_Örneği.Form1.resources
+C:\Users\Bilisim\Desktop\C# Class Örnekleri\Çevre Hesabı Class Örneği\obj\Debug\Çevre_Hesabı_Class_Örneği.Properties.Resources.resources
+C:\Users\Bilisim\Desktop\C# Class Örnekleri\Çevre Hesabı Class Örneği\obj\Debug\Çevre Hesabı Class Örneği.csproj.GenerateResource.cache
+C:\Users\Bilisim\Desktop\C# Class Örnekleri\Çevre Hesabı Class Örneği\obj\Debug\Çevre Hesabı Class Örneği.csproj.CoreCompileInputs.cache
+C:\Users\Bilisim\Desktop\C# Class Örnekleri\Çevre Hesabı Class Örneği\obj\Debug\Çevre Hesabı Class Örneği.exe
+C:\Users\Bilisim\Desktop\C# Class Örnekleri\Çevre Hesabı Class Örneği\obj\Debug\Çevre Hesabı Class Örneği.pdb
