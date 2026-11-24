@@ -1,0 +1,45 @@
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\KareAlanCevreClass\bin\Debug\KareAlanCevreClass.exe.config
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\KareAlanCevreClass\bin\Debug\KareAlanCevreClass.exe
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\KareAlanCevreClass\bin\Debug\KareAlanCevreClass.pdb
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\KareAlanCevreClass\obj\Debug\GelismisHesaplamaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\KareAlanCevreClass\obj\Debug\KareAlanCevreClass.Anaform.resources
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\KareAlanCevreClass\obj\Debug\KareAlanCevreClass.frmDaire.resources
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\KareAlanCevreClass\obj\Debug\KareAlanCevreClass.Properties.Resources.resources
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\KareAlanCevreClass\obj\Debug\GelismisHesaplamaUygulamasi.csproj.GenerateResource.cache
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\KareAlanCevreClass\obj\Debug\GelismisHesaplamaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\KareAlanCevreClass\obj\Debug\KareAlanCevreClass.exe
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\KareAlanCevreClass\obj\Debug\KareAlanCevreClass.pdb
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\KareAlanCevreClass\obj\Debug\KareAlanCevreClass.frmDikdortgen.resources
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\bin\Debug\KareAlanCevreClass.exe.config
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\bin\Debug\KareAlanCevreClass.exe
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\bin\Debug\KareAlanCevreClass.pdb
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\GelismisHesaplamaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.Anaform.resources
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.frmDaire.resources
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.frmDikdortgen.resources
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.frmDikdortgenPrizma.resources
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.Properties.Resources.resources
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\GelismisHesaplamaUygulamasi.csproj.GenerateResource.cache
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\GelismisHesaplamaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.exe
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.pdb
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.frmKare.resources
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.frmKup.resources
+C:\Users\Bilisim\Desktop\YİĞİT EMİR KARAOĞLAN\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.frmUcgenPrizma.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\bin\Debug\KareAlanCevreClass.exe.config
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\bin\Debug\KareAlanCevreClass.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\bin\Debug\KareAlanCevreClass.pdb
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\GelismisHesaplamaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.Anaform.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.frmDaire.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.frmDikdortgen.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.frmDikdortgenPrizma.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.frmKare.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.frmKup.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.frmUcgen.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.frmUcgenPrizma.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.Properties.Resources.resources
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\GelismisHesaplamaUygulamasi.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\GelismisHesaplamaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.exe
+C:\Users\yigit\OneDrive\Masaüstü\C# Projeler\CLASS Örnekleri\GelismisHesaplamaUygulamasi\obj\Debug\KareAlanCevreClass.pdb

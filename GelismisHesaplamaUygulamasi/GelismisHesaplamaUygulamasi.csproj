@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{98CDDDCB-5D58-4BA1-9A88-4D4D1DFB3CA3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KareAlanCevreClass</RootNamespace>
+    <AssemblyName>KareAlanCevreClass</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Formlar\frmDaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmDaire.Designer.cs">
+      <DependentUpon>frmDaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmDikdortgen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmDikdortgen.Designer.cs">
+      <DependentUpon>frmDikdortgen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmDikdortgenPrizma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmDikdortgenPrizma.Designer.cs">
+      <DependentUpon>frmDikdortgenPrizma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Anaform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anaform.Designer.cs">
+      <DependentUpon>Anaform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmKare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmKare.Designer.cs">
+      <DependentUpon>frmKare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmKup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmKup.Designer.cs">
+      <DependentUpon>frmKup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Formlar\frmUcgen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmUcgen.Designer.cs">
+      <DependentUpon>frmUcgen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\frmUcgenPrizma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\frmUcgenPrizma.Designer.cs">
+      <DependentUpon>frmUcgenPrizma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sınıflar\Daire.cs" />
+    <Compile Include="Sınıflar\Dikdortgen.cs" />
+    <Compile Include="Sınıflar\DikdortgenPrizma.cs" />
+    <Compile Include="Sınıflar\Kare.cs" />
+    <Compile Include="Sınıflar\Kontrol.cs" />
+    <Compile Include="Sınıflar\Kup.cs" />
+    <Compile Include="Sınıflar\Ucgen.cs" />
+    <Compile Include="Sınıflar\UcgenPrizma.cs" />
+    <EmbeddedResource Include="Anaform.resx">
+      <DependentUpon>Anaform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmDaire.resx">
+      <DependentUpon>frmDaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmDikdortgen.resx">
+      <DependentUpon>frmDikdortgen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmDikdortgenPrizma.resx">
+      <DependentUpon>frmDikdortgenPrizma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmKare.resx">
+      <DependentUpon>frmKare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmKup.resx">
+      <DependentUpon>frmKup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmUcgen.resx">
+      <DependentUpon>frmUcgen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\frmUcgenPrizma.resx">
+      <DependentUpon>frmUcgenPrizma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
